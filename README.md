@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @abhijithyes
+- 👀 I’m interested in neural network and ML
+- 🌱 I’m currently learning NN
+- 📫 How to reach me abhijith@neoitio.com
